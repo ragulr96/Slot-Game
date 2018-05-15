@@ -1,0 +1,7 @@
+--------------------------- *** GAME STATISTICS *** ---------------------------
+
+Date & Time : 2018-01-04_10:50:41
+Wins : 0
+Losses : 0
+Games Played : 0
+Average Credits per Game : NaN

@@ -1,0 +1,7 @@
+--------------------------- *** GAME STATISTICS *** ---------------------------
+
+Date & Time : 2017-11-24_21:31:06
+Wins : 1
+Losses : 2
+Games Played : 3
+Average Credits per Game : 1.0
